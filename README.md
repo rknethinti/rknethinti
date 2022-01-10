@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ramakrishna Nethinti @rknethinti
 - 👀 I’m interested in Data Science and Artificial Intelligence
-- 🌱 I’m currently learning Data science tools
-- 💞️ I’m looking to collaborate on AIML Projects
+- 🌱 I’m a Data science trainee at Alma Better
+- 💞️ I’m looking to collaborate on AI-ML Projects
 - 📫 reach me at rknethinti@gmail.com
 
 <!---

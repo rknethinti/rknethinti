@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Ramakrishna Nethinti @rknethinti
-- 👀 I’m interested in Data Science and Artificial Intelligence
-- 🌱 I’m a Data science trainee at Alma Better
-- 💞️ I’m looking to collaborate on AI-ML Projects
+- 👀 I’m an Application development Analyst at Accenture working primarily on Data Science and Artificial Intelligence
+- Graduated from Osmania University, Hyderabad and Pursuing Master's in Computer Applications at Jain University, Bangalore 
 - 📫 reach me at rknethinti@gmail.com
 
 <!---

@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ramakrishna Nethinti @rknethinti
-- 👀 I’m an Application development Analyst at Accenture working primarily on Data Science and Artificial Intelligence
+- 👀 I’m a DevOps & Automation Engineer at Accenture working primarily on Infra Automation, DevOps and SRE
 - Graduated from Osmania University, Hyderabad and Pursuing Master's in Computer Applications at Jain University, Bangalore 
 - 📫 reach me at rknethinti@gmail.com
 
